@@ -1,3 +1,3 @@
 # asteroids
 
-Pygame to practice Object Orientated Programming in Python
+Pygame to practice Object Orientated Programming concepts in Python

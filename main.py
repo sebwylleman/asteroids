@@ -35,6 +35,7 @@ def main():
                 return
 
         updatable.update(dt)
+        player.timer -= dt
 
         for asteroid in asteroids:
             if asteroid.collides_with(player):
